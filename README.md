@@ -9,13 +9,13 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 - Windows 11
 <h2>Assigning Roles </h2>
 <p>
-<img width="1917" height="659" alt="image" ![Screenshot_20260625_093326_Chrome.jpg](https://github.com/user-attachments/assets/a5dc3ca2-608a-474e-8406-c4d183f490cc)>
+<img width="1917" height="659" alt="image" https://github.com/user-attachments/assets/a5dc3ca2-608a-474e-8406-c4d183f490cc)>
 <p>
 Assigned User Administrator Role and Directory Readers Role to user Jurnee Horton.
 </p>
 <br />
 <p>
-<img width="1919" height="684" alt="image" ![Screenshot_20260625_094523_Chrome.jpg](https://github.com/user-attachments/assets/ff651f1c-7341-48cc-8103-86c7fc6d9691)>
+<img width="1919" height="684" alt="image" https://github.com/user-attachments/assets/ff651f1c-7341-48cc-8103-86c7fc6d9691)>
 </p>
 <p>
 Assigned User Administrator Role and Directory Readers Role to user Jaxsen Horton.
