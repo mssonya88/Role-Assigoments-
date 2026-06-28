@@ -1,5 +1,6 @@
 # Assigning Roles in Microsoft Azure's Entra ID <p align="center">
-<img width="600" height="400" alt="image" src="https://github.com/userattachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
+<img width="600" height="400" alt="image"
+src="https://github.com/user-attachments/assets/14806b36-bc52-44a8-a825-615241d884e0" />
 </p>
 <h1>Role Assignments for Users (Azure)</h1>
 This tutorial outlines the process of assigning Roles to user accounts in Entra ID.<br />
@@ -9,13 +10,16 @@ This tutorial outlines the process of assigning Roles to user accounts in Entra 
 - Windows 11
 <h2>Assigning Roles </h2>
 <p>
-<img width="1917" height="659" alt="image" https://github.com/user-attachments/assets/a5dc3ca2-608a-474e-8406-c4d183f490cc)>
+<<img width="1907" height="432" alt="image" src="https://github.com/user-attachments/assets/db1f7a0e-7367-4da7-aeed-0d7174dc71f4" />
+>
+</p>
 <p>
 Assigned User Administrator Role and Directory Readers Role to user Jurnee Horton.
 </p>
 <br />
 <p>
-<img width="1919" height="684" alt="image" https://github.com/user-attachments/assets/ff651f1c-7341-48cc-8103-86c7fc6d9691)>
+<<img width="1907" height="432" alt="image" src="https://github.com/user-attachments/assets/f589f873-2899-4289-8bf9-908708859905" />
+>
 </p>
 <p>
 Assigned User Administrator Role and Directory Readers Role to user Jaxsen Horton.
